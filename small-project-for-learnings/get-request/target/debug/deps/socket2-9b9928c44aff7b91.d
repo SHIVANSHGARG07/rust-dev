@@ -1,0 +1,11 @@
+/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/deps/socket2-9b9928c44aff7b91.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs
+
+/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/deps/libsocket2-9b9928c44aff7b91.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs
+
+/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/deps/libsocket2-9b9928c44aff7b91.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs:

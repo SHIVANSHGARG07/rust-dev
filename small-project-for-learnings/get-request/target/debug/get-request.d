@@ -1,0 +1,1 @@
+/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/get-request: /home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/src/main.rs
