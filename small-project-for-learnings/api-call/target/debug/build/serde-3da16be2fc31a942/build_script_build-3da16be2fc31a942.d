@@ -1,0 +1,5 @@
+/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/api-call/target/debug/build/serde-3da16be2fc31a942/build_script_build-3da16be2fc31a942.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/build.rs
+
+/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/api-call/target/debug/build/serde-3da16be2fc31a942/build_script_build-3da16be2fc31a942: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/build.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/build.rs:
