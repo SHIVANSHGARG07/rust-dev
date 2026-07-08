@@ -1,0 +1,10 @@
+ [package]
+name = "download-images"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tempfile = "3.27.0"
+reqwest = { version = "0.13", features = ["json", "blocking"] }
+error-chain = "0.12"
+tokio = { version = "1.21.1", features = ["full"] }
