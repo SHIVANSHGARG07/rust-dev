@@ -1,0 +1,8 @@
+# Rust build output
+target/
+
+# Ignore any target directory anywhere in the repo
+**/target/
+
+# Backup files
+**/*.rs.bk
