@@ -1,7 +1,0 @@
-/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/deps/try_lock-9e71c33594445eba.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/try-lock-0.2.5/src/lib.rs
-
-/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/deps/libtry_lock-9e71c33594445eba.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/try-lock-0.2.5/src/lib.rs
-
-/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/get-request/target/debug/deps/libtry_lock-9e71c33594445eba.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/try-lock-0.2.5/src/lib.rs
-
-/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/try-lock-0.2.5/src/lib.rs:
