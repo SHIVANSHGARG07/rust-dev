@@ -1,1 +1,0 @@
-/home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/api-call/target/debug/api-call: /home/shivansh-work-here/shivansh-rust-projects/rust-dev/small-project-for-learnings/api-call/src/main.rs
